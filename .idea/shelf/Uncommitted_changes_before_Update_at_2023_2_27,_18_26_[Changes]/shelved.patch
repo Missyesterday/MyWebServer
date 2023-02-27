@@ -1,0 +1,48 @@
+Index: .gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># Project exclude paths\n/cmake-build-debug-aliyun_gcc/\n/cmake-build-debug-one_gcc/\n/cmake-build-debug/\n.DS_STORE\n.idea
+===================================================================
+diff --git a/.gitignore b/.gitignore
+--- a/.gitignore	
++++ b/.gitignore	
+@@ -3,4 +3,36 @@
+ /cmake-build-debug-one_gcc/
+ /cmake-build-debug/
+ .DS_STORE
+-.idea
+\ No newline at end of file
++# C++ ================================
++ Prerequisites
++*.d
++
++# Compiled Object files
++*.slo
++*.lo
++*.o
++*.obj
++
++# Precompiled Headers
++*.gch
++*.pch
++
++# Compiled Dynamic libraries
++*.so
++*.dylib
++*.dll
++
++# Fortran module files
++*.mod
++*.smod
++
++# Compiled Static libraries
++*.lai
++*.la
++*.a
++*.lib
++
++# Executables
++*.exe
++*.out
++*.app
+\ No newline at end of file
