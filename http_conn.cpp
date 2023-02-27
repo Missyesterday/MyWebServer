@@ -11,9 +11,9 @@ const char* error_404_form = "The requested file was not found on this server.\n
 const char* error_500_title = "Internal Error";
 const char* error_500_form = "There was an unusual problem serving the requested file.\n";
 
-// 网站的根目录
+// 网站的根目录， 需要修改成自己的
 const char* doc_root = "/root/cpp_code/MyWebServer/resources";
-//
+
 
 int setnonblocking( int fd ) {
     int old_option = fcntl( fd, F_GETFL );
