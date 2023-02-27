@@ -13,6 +13,7 @@ const char* error_500_form = "There was an unusual problem serving the requested
 
 // 网站的根目录
 const char* doc_root = "/root/cpp_code/MyWebServer/resources";
+//
 
 int setnonblocking( int fd ) {
     int old_option = fcntl( fd, F_GETFL );
