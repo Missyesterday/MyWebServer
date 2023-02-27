@@ -1,1 +1,0 @@
-/opt/rh/devtoolset-8/root/usr/bin/g++ -g CMakeFiles/WebServer.dir/main.cpp.o CMakeFiles/WebServer.dir/http_conn.cpp.o -o WebServer 
