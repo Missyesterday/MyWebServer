@@ -53,8 +53,4 @@ _deps
 *.iml
 out
 gen
-!/cmake-build-debug/
-
-!/cmake-build-debug-aliyun_gcc/
-
-!/cmake-build-debug-one_gcc/
+cmake*/
