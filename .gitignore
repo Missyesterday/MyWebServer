@@ -54,3 +54,6 @@ _deps
 out
 gen
 cmake*/
+cmake-build-debug-one_gcc/
+cmake-build-debug-aliyun_gcc/
+.idea/
