@@ -1,5 +1,0 @@
-# Project exclude paths
-/cmake-build-debug-aliyun_gcc/
-/cmake-build-debug-one_gcc/
-/cmake-build-debug/
-.DS_STORE
