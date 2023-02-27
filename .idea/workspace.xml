@@ -13,8 +13,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="092d6425-3331-4074-93bc-e825f39e27e3" name="Changes" comment="添加一些注释">
-      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -94,7 +92,7 @@
       <workItem from="1677243476561" duration="7504000" />
       <workItem from="1677313374534" duration="20000" />
       <workItem from="1677313416333" duration="13676000" />
-      <workItem from="1677487736408" duration="4150000" />
+      <workItem from="1677487736408" duration="4264000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1677491956641</created>
@@ -152,7 +150,21 @@
       <option name="project" value="LOCAL" />
       <updated>1677493552767</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="添加一些注释">
+      <created>1677493757520</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1677493757520</updated>
+    </task>
+    <task id="LOCAL-00010" summary="添加一些注释">
+      <created>1677493791962</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1677493791962</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
